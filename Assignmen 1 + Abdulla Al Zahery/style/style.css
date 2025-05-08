@@ -1,0 +1,28 @@
+        img { 
+    
+        border: 5px solid red 
+  
+        }
+
+        img { 
+        
+        width: 400px;
+        height: 300px;
+
+    
+        }
+
+        H1 { color:  blue ;}
+
+       
+
+     input[type="text"] {
+        
+        border-style: dotted;
+        border-color: rgb(145, 10, 10);
+
+
+        
+        } 
+        
+        
